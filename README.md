@@ -1,27 +1,32 @@
 # Book-Repository
-A list of books I liked
+A list of books I liked. Feel free to recommend some! :)
 
 **Top Book**: Russell: A history of western philosophy
 
 
 ### Philosophy
 - Kafka: The Metamorphosis
-- Russell: A history of western philosophy
 - Rand: Atlas Shrugged
 - Kafka: The Trial
-- The Three Theban Plays: Antigone - Oedipus the King - Oedipus at Colonus
 - Plato: The Republic
+- The Three Theban Plays
 - Camus: The Myth of Sisyphus
-- Chalmers: The conscious mind (IP)
+- Nietzsche: Beyond Good and Evil
+- Russell: A history of western philosophy
+- Chalmers: The conscious mind     (IP)
+- Camus: The Stranger              (IP)
+- Camus: The Plague                (IP)
+- Dostoevsky: Crime and Punishment (IP)
 
 ### Computer Science
 - Graham: Common Lisp
 - Goodfellow: Deep Learning
 - Reinforcement Learning
 - Godel Escher Bach
-- An introductory course in Computational Neuroscience
+- An Introductory Course in Computational Neuroscience
 - The Computational Brain
 - Logic and Language Models for Computer Science
+- Introduction to Algorithms (CHPTs from CS483)
 
 ### Biology/Neurosci
 - Gerstner: Neuronal Dynamics
@@ -38,6 +43,7 @@ A list of books I liked
 - Tales from Both Sides of the Brain
 - Moonwalking with Einstien
 - The Origin of Species
+- Are we Smart Enough to Know How Smart Animals are? (IP)
 
 ### Math
 - Introduction to Statistical Learning Theory
