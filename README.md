@@ -31,6 +31,7 @@ A list of books I liked. Feel free to recommend some! :)
 - Logic and Language Models for Computer Science
 - Introduction to Algorithms (CHPTs from CS483)
 - Why Greatness Cannot be Planned (IP)
+- Maddox: Synthesis of Ethics and Law for Computing Professionals
 
 ### Biology/Neurosci
 - Gerstner: Neuronal Dynamics
