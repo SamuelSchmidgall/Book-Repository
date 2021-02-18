@@ -10,13 +10,16 @@ A list of books I liked. Feel free to recommend some! :)
 - Kafka: The Trial
 - Plato: The Republic
 - The Three Theban Plays
-- Camus: The Myth of Sisyphus
 - Nietzsche: Beyond Good and Evil
 - Russell: A history of western philosophy
+- Nietzsche: The Gay Science       (IP)
 - Chalmers: The conscious mind     (IP)
+- Camus: The Fall                  (IP)
+- Camus: The Myth of Sisyphus      (IP)
 - Camus: The Stranger              (IP)
 - Camus: The Plague                (IP)
 - Dostoevsky: Crime and Punishment (IP)
+- Boucheron: Machiavelli - The Art of Teaching People What to Fear
 
 ### Computer Science
 - Graham: Common Lisp
@@ -27,6 +30,7 @@ A list of books I liked. Feel free to recommend some! :)
 - The Computational Brain
 - Logic and Language Models for Computer Science
 - Introduction to Algorithms (CHPTs from CS483)
+- Why Greatness Cannot be Planned (IP)
 
 ### Biology/Neurosci
 - Gerstner: Neuronal Dynamics
@@ -58,5 +62,6 @@ A list of books I liked. Feel free to recommend some! :)
 - Godel's Proof
 - How to Solve it
 - The Shape of Space
+- Judson: Abstract Algebra 
 
 
