@@ -26,12 +26,11 @@ A list of books I liked. Feel free to recommend some! :)
 - Goodfellow: Deep Learning
 - Reinforcement Learning
 - Godel Escher Bach
-- An Introductory Course in Computational Neuroscience
-- The Computational Brain
 - Logic and Language Models for Computer Science
 - Introduction to Algorithms (CHPTs from CS483)
 - Why Greatness Cannot be Planned (IP)
 - Maddox: Synthesis of Ethics and Law for Computing Professionals
+- Operating Systems Concepts (4th Edition) (IP)
 
 ### Biology/Neurosci
 - Gerstner: Neuronal Dynamics
@@ -47,8 +46,11 @@ A list of books I liked. Feel free to recommend some! :)
 - The Gene
 - Tales from Both Sides of the Brain
 - Moonwalking with Einstien
+- An Introductory Course in Computational Neuroscience
+- The Computational Brain
 - The Origin of Species
 - Are we Smart Enough to Know How Smart Animals are? (IP)
+- Principles of Neural Science (IP)
 
 ### Math
 - Introduction to Statistical Learning Theory
