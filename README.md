@@ -19,6 +19,7 @@ A list of books I liked. Feel free to recommend some! :)
 - Camus: The Stranger              (IP)
 - Camus: The Plague                (IP)
 - Dostoevsky: Crime and Punishment (IP)
+- A critique of pure reason (Kant) (IP)
 - Boucheron: Machiavelli - The Art of Teaching People What to Fear
 
 ### Computer Science
@@ -30,9 +31,9 @@ A list of books I liked. Feel free to recommend some! :)
 - Introduction to Algorithms (CHPTs from CS483)
 - Why Greatness Cannot be Planned (IP)
 - Maddox: Synthesis of Ethics and Law for Computing Professionals
-- Operating Systems Concepts (4th Edition) (IP)
+- Operating Systems Concepts (4th Edition)
 
-### Biology/Neurosci
+### Biology/Neuroscience
 - Gerstner: Neuronal Dynamics
 - Kandel: Principals of Neural Science (CHPT 1-12)
 - Erikson: Peak
@@ -51,6 +52,7 @@ A list of books I liked. Feel free to recommend some! :)
 - The Origin of Species
 - Are we Smart Enough to Know How Smart Animals are? (IP)
 - Principles of Neural Science (IP)
+- Evolution (Bergstrom)
 
 ### Math
 - Introduction to Statistical Learning Theory
@@ -66,5 +68,6 @@ A list of books I liked. Feel free to recommend some! :)
 - How to Solve it
 - The Shape of Space
 - Judson: Abstract Algebra 
+- Topology (Munkres) (IP)
 
 
