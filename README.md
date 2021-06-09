@@ -12,6 +12,7 @@ A list of books I liked. Feel free to recommend some! :)
 - The Three Theban Plays
 - Nietzsche: Beyond Good and Evil
 - Russell: A history of western philosophy
+- Boden: The philosophy of artificial life
 - Nietzsche: The Gay Science       (IP)
 - Chalmers: The conscious mind     (IP)
 - Camus: The Fall                  (IP)
@@ -29,7 +30,7 @@ A list of books I liked. Feel free to recommend some! :)
 - Godel Escher Bach
 - Logic and Language Models for Computer Science
 - Introduction to Algorithms (CHPTs from CS483)
-- Why Greatness Cannot be Planned (IP)
+- Why Greatness Cannot be Planned
 - Maddox: Synthesis of Ethics and Law for Computing Professionals
 - Operating Systems Concepts (4th Edition)
 
